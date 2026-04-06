@@ -16,6 +16,3 @@ result
 
 # Databases (local)
 *.db
-
-# Repo-specific
-flake-crates/
